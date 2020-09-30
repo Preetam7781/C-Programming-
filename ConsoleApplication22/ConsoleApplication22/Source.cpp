@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Array
 int main(void) {
 
 	int k[6] = { 0, 0, 0, 0, 0, 0 }; 
@@ -11,12 +11,5 @@ int main(void) {
 		k[n] = i;
 		printf("%d%d", k[1], k[3]);
 	}
-
-
-
-
-
-
-
 
 }
