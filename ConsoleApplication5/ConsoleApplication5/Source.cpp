@@ -9,6 +9,7 @@ computed using the following formula:*
 #include <stdio.h>
 #include <math.h>
 
+// finding a distance between 3-d points
 int main(void)
 {
 	double x1, x2,
