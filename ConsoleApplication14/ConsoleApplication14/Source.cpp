@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
+//calculate monthly ROI
 int main(void)
 {
 	double princ, rate, term, monthly;
